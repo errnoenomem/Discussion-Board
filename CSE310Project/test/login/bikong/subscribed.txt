@@ -1,0 +1,9 @@
+8
+1. (+) cs.java
+2. (+) cs.cplusplus
+3. (+) cs.python
+4. (+) fash.jackets
+5. (+) fash.shoes
+6. (+) fash.summer
+7. (+) food.american
+8. (+) food.chinese

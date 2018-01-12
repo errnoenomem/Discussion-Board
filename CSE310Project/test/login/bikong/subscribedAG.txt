@@ -1,0 +1,21 @@
+20
+1. (+) cs.java
+2. (+) cs.cplusplus
+3. (+) cs.python
+4. (+) fash.jackets
+5. (+) fash.shoes
+6. (+) fash.summer
+7. (+) food.american
+8. (+) food.chinese
+9. (-) food.soul
+10. (-) furn.bedsheets
+11. (-) furn.chairs
+12. (-) furn.patio
+13. (-) hyg.oral
+14. (-) hyg.shampoo
+15. (-) hyg.soap
+16. (-) mus.hiphop
+17. (-) mus.pop
+18. (-) vg.consoles
+19. (-) vg.games
+20. (-) vg.pc

@@ -1,0 +1,18 @@
+17
+* help                Displays the list of commands. "help".
+* ag                  List the names of all existing discussion groups. Optional parameter accepted. "ag N".
+     + s       accepts at least one argument. Subscribes to the groups entered.
+     + u       accepts at least one argument. Unsubscribes from the groups entered.
+     + n       lists the next N discussion groups. If there are no more groups left to display, exits from "ag".
+     + q       exits from "ag", before finishing displaying all groups.
+* sg                  Lists subscribed groups. Optional parameter accepted. "sg N".
+     + u       accepts at least one argument. Unsubscribes from the groups entered.
+     + n       lists the next N discussion groups. If there are no more groups left to display, exits from "sg".
+     + q       exits from "sg before finishing displaying all groups.
+* rg                  Lists the posts of the specified group. Optional parameter accepted. "rg group N".
+     + [id]    displays the specified post and it's contents. Marks unread posts as read upon displaying.
+     + r       marks the specified unread posts as read. Optional parameter accepted. "r N-N"
+     + n       lists the next N group posts. If there are no more posts left to display, exits from "rg".
+     + p       submits a new post to the group.
+     + q       exits from "rg" before displaying all posts.
+* logout              Logs out the current user and terminates the application.

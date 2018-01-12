@@ -1,0 +1,8 @@
+Group: cs.python
+Subject: this is a new test post
+Author: bikong
+Date: Mon, Dec 12 19:31:19 EST 2016
+Hey, my name is jeremy from down the block,
+i am very intersted in this program you have set up
+by the way, do you happen to know anywhere where I can get some fried chicken and watermelon?
+Thanks

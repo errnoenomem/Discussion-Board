@@ -1,0 +1,7 @@
+Group: cs.java
+Subject: How to java?
+Author: bikong
+Date: Sun, Dec 11 13:34:07 EST 2016
+Hi, I am completely new to programming but one of my work colleagues (I work at mc'donalds) told me I can make apps with something called java??
+How do I do this?
+Thank you
